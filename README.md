@@ -4,9 +4,9 @@ An analysis of my lifetime Spotify streaming history including regression analys
 ## Table of Contents
 
 - Data Sources
-- [Getting Started]
-- [Data Analysis]
-- [Results]
+- Getting Started
+- Data Analysis
+- Results
 
 
 ## Data Sources
