@@ -14,8 +14,6 @@ An analysis of my lifetime Spotify streaming history including regression, Kmean
 Spotify listening data was sourced directly from Spotify.  
 Geographic data was sourced from IPApi (https://ipapi.co/)
 
-Raw data is included, but due to file size, prepared datasets could not be uploaded.  
-
 ## Getting Started
 
 I started this process by requesting my lifetime streaming history directly from Spotify.  This came after about a week, and was in the format of 11 JSON files.  I inspected the files to ensure that all of the fields were consistent across files and loaded them into a combined data set.  From there, I used the IP address information in the data to obtain location information using IPApi.  I took the geographic information for each IP address and added it to my data set to have a geographic element.  
