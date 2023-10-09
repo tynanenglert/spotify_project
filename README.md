@@ -3,7 +3,7 @@ An analysis of my lifetime Spotify streaming history including regression analys
 
 ## Table of Contents
 
-- [Data Sources]
+- Data Sources
 - [Getting Started]
 - [Data Analysis]
 - [Results]
