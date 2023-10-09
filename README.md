@@ -1,5 +1,5 @@
 # spotify_project
-An analysis of my lifetime Spotify streaming history including regression analysis, Choropleth map and Kmeans clustering.
+An analysis of my lifetime Spotify streaming history including regression, Kmeans clustering, and time series analysis.
 
 ## Table of Contents
 
