@@ -32,4 +32,4 @@ The comparisons can be found in the Tableau story linked in the results section.
 
 The clustering comparison used the measures of total track time and minutes per track for each cluster.  These measures were picked to illustrate overall consumption and concentration of consumption.  I compared each cluster across shuffle tag, skipped tag, and frequency tag.  I ultimately described the qualities of each group based on the distinctions uncovered during the comparisons.  
 
-(https://public.tableau.com/shared/3DHNS4QCN?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/3DHNS4QCN?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/3DHNS4QCN?:display_count=n&:origin=viz_share_link)https://public.tableau.com/shared/3DHNS4QCN?:display_count=n&:origin=viz_share_link
